@@ -4,7 +4,7 @@ Here are some things I've worked on:
 
 - [ChatPDF](https://github.com/Ghoutibk/NOM_DU_REPO) - Full RAG architecture featuring PDF segmentation and vector storage via ChromaDB for hallucination-free responses.
 
-- [Détection du Glaucome](https://github.com/Ghoutibk/NOM_DU_REPO) - Machine Learning classification model achieving a 92% F1-Score to assist in ophthalmic diagnosis using clinical retinal images.
+- [Glaucoma Detection](https://github.com/Ghoutibk/NOM_DU_REPO) - Machine Learning classification model achieving a 92% F1-Score to assist in ophthalmic diagnosis using clinical retinal images.
 
 - [Emotion-Classification-CNN](https://github.com/Ghoutibk/Emotion-Classification-CNN) - Image classification pipeline using TensorFlow/Keras to detect emotions with 96.9% accuracy.
 

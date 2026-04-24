@@ -2,7 +2,7 @@ Hi there 👋
 
 Here are some things I've worked on:
 
-- ChatPDF - Full RAG architecture featuring PDF segmentation and vector storage via FAISS for hallucination-free responses.
+- [ChatPDF](https://github.com/Ghoutibk/chatgpt-rag) - Full RAG architecture featuring PDF segmentation and vector storage via FAISS for hallucination-free responses.
 
 - Glaucoma Detection - Machine Learning classification model achieving a 92% F1-Score to assist in ophthalmic diagnosis using clinical retinal images.
 

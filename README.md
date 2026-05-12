@@ -2,6 +2,8 @@ Hi there 👋
 
 Here are some things I've worked on:
 
+-  [Aviation Incident Classifier](https://github.com/Ghoutibk/aviation-incident-classifier) - Automated Analysis of BEA Incident Reports (Mistral LLM + LangChain + ChromaDB, 100+ BEA reports)
+
 - [ChatPDF](https://github.com/Ghoutibk/chatgpt-rag) - Full RAG architecture featuring PDF segmentation and vector storage via FAISS for hallucination-free responses.
 
 - Glaucoma Detection - Machine Learning classification model achieving a 92% F1-Score to assist in ophthalmic diagnosis using clinical retinal images.

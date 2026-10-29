@@ -1,15 +1,3 @@
 Hi👋
 
-Here are some things I've worked on:
-
--  [Aviation Incident Classifier](https://github.com/Ghoutibk/aviation-incident-classifier) - Automated Analysis of BEA Incident Reports (Mistral LLM + LangChain + ChromaDB, 100+ BEA reports)
-
-- [ChatPDF](https://github.com/Ghoutibk/chatgpt-rag) - Full RAG architecture featuring PDF segmentation and vector storage via FAISS for hallucination-free responses.
-
-- Glaucoma Detection - Machine Learning classification model achieving a 92% F1-Score to assist in ophthalmic diagnosis using clinical retinal images.
-
-- [Emotion-Classification-CNN](https://github.com/Ghoutibk/Emotion-Classification-CNN) - Image classification pipeline using TensorFlow/Keras to detect emotions with 96.9% accuracy.
-
-- [linear-regression-from-scratch](https://github.com/Ghoutibk/linear-regression-from-scratch) - Vectorized and object-oriented implementation of linear regression developed solely with NumPy.
-
 📫 How to reach me : [LinkedIn Profile](https://www.linkedin.com/in/ghouti-belhadj-kacem-a93b731bb/) | ghouti.belhadj@outlook.fr
